@@ -32,9 +32,9 @@
             <url>http://10.128.0.10:8081/repository/student-rel/</url>
         </repository>
         <snapshotRepository>
-            <id>devsnapshot</id>
-            <name>devsnapshot</name>
-            <url>http://localhost:8081/repository/qadeploy/</url>
+            <id>stgrelease</id>
+            <name>stgrelease</name>
+            <url>http://localhost:8081/repository/stgrelease/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
