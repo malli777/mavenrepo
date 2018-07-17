@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>devsnapshot</id>
             <name>devsnapshot</name>
-            <url>http://localhost:8081/repository/devsnapshot/</url>
+            <url>http://localhost:8081/repository/qadeploy/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
