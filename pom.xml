@@ -32,9 +32,9 @@
             <url>http://10.128.0.10:8081/repository/student-rel/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
-            <name>Internal Snapshot Releases</name>
-            <url>http://10.128.0.10:8081/repository/student-snap/</url>
+            <id>release</id>
+            <name>release</name>
+            <url>http://192.168.0.44:8070/nexus/content/repositories/release/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
