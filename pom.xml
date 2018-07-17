@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>release</id>
             <name>release</name>
-            <url>http://192.168.0.44:8070/nexus/content/repositories/release/</url>
+            <url>http://localhost:8081/repository/devsnapshot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
